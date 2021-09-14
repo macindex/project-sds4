@@ -11,3 +11,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+//npx browserslist@latest --update-db
