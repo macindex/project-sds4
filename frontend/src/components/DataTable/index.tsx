@@ -11,7 +11,7 @@ const DataTable = () => {
                     <th>Valor</th>
                 </tr>
             </thead>
-            <tbody>
+            {/* <tbody>
                 <tr>
                     <td>22/04/2021</td>
                     <td>Barry Allen</td>
@@ -55,7 +55,7 @@ const DataTable = () => {
                     <td>25</td>
                     <td>15017.00</td>
                 </tr>
-            </tbody>
+            </tbody> */}
         </table>
     </div>
     );
